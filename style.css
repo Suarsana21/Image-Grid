@@ -1,0 +1,9 @@
+.image {
+  column-count: 3;
+  column-gap: 14px;
+}
+.image img {
+  width: 100%;
+  margin-bottom: 14px;
+  display: block;
+}
